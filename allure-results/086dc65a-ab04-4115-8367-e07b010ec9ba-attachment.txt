@@ -1,0 +1,5 @@
+Application opened
+Login completed
+File uploaded
+Added new employee details are added
+Logout completed
