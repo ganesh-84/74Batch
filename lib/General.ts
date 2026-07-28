@@ -32,4 +32,4 @@ async waitStatement()
 {
     await this.page.waitForTimeout(3000); // Wait for 3 seconds
 }
-}
+}   
